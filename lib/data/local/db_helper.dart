@@ -94,4 +94,8 @@ class DBHelper {
         .delete(tableNote, where: "$columnNoteSno =  ? ", whereArgs: ["$sno"]);
     return rowsEffected > 0;
   }
+
+  static getInirialNotes() {}
+
+  static getInitialNotes() {}
 }

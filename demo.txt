@@ -1,0 +1,5 @@
+install extenal library in FLUTTER
+
+flutter pub add provider   => provider library he or flutter pub add command 
+
+flutter pub get  => uske bad..
